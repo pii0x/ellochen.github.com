@@ -1,4 +1,0 @@
-pygments: true
-permalink: /posts/:title
-markdown: rdiscount
-BASE_PATH: http://ellochen.github.com/jekyll_test/
