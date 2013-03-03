@@ -10,4 +10,6 @@ Ello,想追上世界脚步的程序员,还很弱
   + silver.accc@gmail.com
   + god_mode@yeah.net
 - 豆瓣: [http://www.douban.com/people/luoluoyou/](http://www.douban.com/people/luoluoyou/)
+- 算法小站[http://site.douban.com/196781/](http://site.douban.com/196781/)
 - github : [https://github.com/ellochen](https://github.com/ellochen)      
+
