@@ -4,7 +4,7 @@ layout: page
 comments: yes
 ---
   
-Ello,想追上世界脚步的弱码农
+Ello,想追上世界脚步的程序员,还很弱
 
 - 邮箱:
   + silver.accc@gmail.com
