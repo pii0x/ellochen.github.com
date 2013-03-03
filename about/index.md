@@ -4,8 +4,7 @@ layout: page
 comments: yes
 ---
   
-![](http://img3.douban.com/icon/ul3433533-11.jpg)
-Ello,想追上世界脚步的程序员,还很弱
+![My name is Ello](http://img3.douban.com/icon/ul3433533-11.jpg)
 
 - 邮箱:
   + silver.accc@gmail.com
