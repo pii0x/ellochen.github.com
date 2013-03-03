@@ -4,6 +4,7 @@ layout: page
 comments: yes
 ---
   
+![](http://img3.douban.com/icon/ul3433533-11.jpg)
 Ello,想追上世界脚步的程序员,还很弱
 
 - 邮箱:
