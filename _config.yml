@@ -3,3 +3,5 @@ permalink: /:year/:month/:title/
 author: Ello
 pygments: true
 paginate: 16
+baseurl: /jekyll_test
+url: http://localhost:4000

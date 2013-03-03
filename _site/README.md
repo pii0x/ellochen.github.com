@@ -1,2 +1,2 @@
-- My Blog based kejinlu.github.com
-  Thanks for kejinlu
+- My Blog based kejinlu.github.com  
+Thanks for Luke
