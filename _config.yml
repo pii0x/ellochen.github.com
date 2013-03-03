@@ -1,0 +1,5 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+author: Ello
+pygments: true
+paginate: 16
