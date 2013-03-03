@@ -5,7 +5,7 @@ comments: yes
 ---
   
 ![](http://img3.douban.com/icon/ul3433533-11.jpg)
-        My name is Ello,I am a programmer.
+                    My name is Ello,I am a programmer.
 - 邮箱:
   + silver.accc@gmail.com
   + god_mode@yeah.net
