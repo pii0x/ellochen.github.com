@@ -1,29 +1,29 @@
----
+ï»¿---
 layout: post
 ---
 
-## ÔµÆğ
+## ç¼˜èµ·
 
-¶ÁÁËÑôÖ¾Æ½´óÉñµÄÒ»Æª²©ÎÄ[ÀíÏëµÄĞ´×÷»·¾³£ºgit+github+markdown+jekyll](http://www.yangzhiping.com/tech/writing-space.html)¡£²»ÓÉ¸ĞÌ¾£¬Õâ¾ÍÊÇÎÒÏëÒªµÄ£¬ÓÚÊÇ¾Í¿ªÊ¼×ÅÊÖ×öÕâ¼şÊÂ¡£ÔÚĞ¡Õ¾ÀïÒ²ÍÆ¼öÁËÒ»ÏÂ£¬È»ºó·¢ÏÖ£¬ºÃ¶àÅóÓÑÔç¾ÍÒÑ¾­¸ãÆğÁË£¬ÓĞµÄÒÑ¾­ÍæÄåÁË£¬ÎÒ¹ûÈ»ÓÖÂäÎéÁË£¬Ò²°ÕÏ°¹ßÁË¶¼= =¡£Õâ½«ÊÇÎÒµÚÒ»ÆªÓÃMarkdownĞ´µÄ²©ÎÄ£¬µ±×÷Á·ÊÖ~£¬ÕæµÄºÜ¼òµ¥¡£
+è¯»äº†é˜³å¿—å¹³å¤§ç¥çš„ä¸€ç¯‡åšæ–‡[ç†æƒ³çš„å†™ä½œç¯å¢ƒï¼šgit+github+markdown+jekyll](http://www.yangzhiping.com/tech/writing-space.html)ã€‚ä¸ç”±æ„Ÿå¹ï¼Œè¿™å°±æ˜¯æˆ‘æƒ³è¦çš„ï¼Œäºæ˜¯å°±å¼€å§‹ç€æ‰‹åšè¿™ä»¶äº‹ã€‚åœ¨å°ç«™é‡Œä¹Ÿæ¨èäº†ä¸€ä¸‹ï¼Œç„¶åå‘ç°ï¼Œå¥½å¤šæœ‹å‹æ—©å°±å·²ç»æèµ·äº†ï¼Œæœ‰çš„å·²ç»ç©è…»äº†ï¼Œæˆ‘æœç„¶åˆè½ä¼äº†ï¼Œä¹Ÿç½¢ä¹ æƒ¯äº†éƒ½= =ã€‚è¿™å°†æ˜¯æˆ‘ç¬¬ä¸€ç¯‡ç”¨Markdownå†™çš„åšæ–‡ï¼Œå½“ä½œç»ƒæ‰‹~ï¼ŒçœŸçš„å¾ˆç®€å•ã€‚
 
-## ²Î¿¼
+## å‚è€ƒ
 
-Õâ·½ÃæµÄºÃÎÄÕÂÍøÉÏÏàµ±¶à£¬ÎÒÌô¼¸¸ö×Ô¼ºÓÃÉÏµÄÁĞ³öÀ´£º  
+è¿™æ–¹é¢çš„å¥½æ–‡ç« ç½‘ä¸Šç›¸å½“å¤šï¼Œæˆ‘æŒ‘å‡ ä¸ªè‡ªå·±ç”¨ä¸Šçš„åˆ—å‡ºæ¥ï¼š  
 
-- git/githubÏà¹Ø:
-	+ [ÑôÖ¾Æ½£ºGitÓëGithubÈëÃÅ×ÊÁÏ](http://www.yangzhiping.com/tech/git.html)  
-	+ [ÑôÖ¾Æ½£ºÈçºÎ¸ßĞ§ÀûÓÃGitHub](http://www.yangzhiping.com/tech/github.html)  
-- markdownÏà¹Ø£º
-	+ [Markdown Óï·¨ËµÃ÷ (¼òÌåÖĞÎÄ°æ)](http://wowubuntu.com/markdown/)
-	+ [Í¼ÁéÉçÇø : ÔõÑùÊ¹ÓÃMarkdown](http://www.ituring.com.cn/article/23)
-	+ [ÑôÖ¾Æ½£ºMarkdownĞ´×÷Ç³Ì¸](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
-- jekyallÏà¹Ø£º
-	+ [´î½¨Ò»¸öÃâ·ÑµÄ£¬ÎŞÏŞÁ÷Á¿µÄBlog----github PagesºÍJekyllÈëÃÅ](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
-- ×ÛÊö£º
-	+ [Github Pages¼«¼ò½Ì³Ì - ÑãÆğÆ½É³µÄÍøÂçÈÕÖ¾](http://yanping.me/cn/blog/2012/03/18/github-pages-step-by-step/)
+- git/githubç›¸å…³:
+	+ [é˜³å¿—å¹³ï¼šGitä¸Githubå…¥é—¨èµ„æ–™](http://www.yangzhiping.com/tech/git.html)  
+	+ [é˜³å¿—å¹³ï¼šå¦‚ä½•é«˜æ•ˆåˆ©ç”¨GitHub](http://www.yangzhiping.com/tech/github.html)  
+- markdownç›¸å…³ï¼š
+	+ [Markdown è¯­æ³•è¯´æ˜ (ç®€ä½“ä¸­æ–‡ç‰ˆ)](http://wowubuntu.com/markdown/)
+	+ [å›¾çµç¤¾åŒº : æ€æ ·ä½¿ç”¨Markdown](http://www.ituring.com.cn/article/23)
+	+ [é˜³å¿—å¹³ï¼šMarkdownå†™ä½œæµ…è°ˆ](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
+- jekyallç›¸å…³ï¼š
+	+ [æ­å»ºä¸€ä¸ªå…è´¹çš„ï¼Œæ— é™æµé‡çš„Blog----github Pageså’ŒJekyllå…¥é—¨](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+- ç»¼è¿°ï¼š
+	+ [Github Pagesæç®€æ•™ç¨‹ - é›èµ·å¹³æ²™çš„ç½‘ç»œæ—¥å¿—](http://yanping.me/cn/blog/2012/03/18/github-pages-step-by-step/)
 	+ [Play with Jekyll](http://blog.skydark.info/programming/2012/03/23/play-with-jekyll/)
 
-ËµÊµ»°£¬Õâ¼¸Æª¿´ÍêÁËÓÈÆäÊÇ×ÛÊö£¬¾Í²»ÓÃÍùÏÂ¿´ÁË£¬ÒÔÏÂ×÷ÎªÎÒ¸öÈË¼ÇÂ¼£¬Ö»¸ø³ö¼òµ¥Ã÷ÁËµÄ¹ı³Ì£¬ÔÙÎŞ¸ÅÄîÉÏµÄ³ÂÊö£¬ÒÔ±¸ºóÓÃ¡£
+è¯´å®è¯ï¼Œè¿™å‡ ç¯‡çœ‹å®Œäº†å°¤å…¶æ˜¯ç»¼è¿°ï¼Œå°±ä¸ç”¨å¾€ä¸‹çœ‹äº†ï¼Œä»¥ä¸‹ä½œä¸ºæˆ‘ä¸ªäººè®°å½•ï¼Œåªç»™å‡ºç®€å•æ˜äº†çš„è¿‡ç¨‹ï¼Œå†æ— æ¦‚å¿µä¸Šçš„é™ˆè¿°ï¼Œä»¥å¤‡åç”¨ã€‚
 
-## ¹ı³Ì¼ÇÂ¼
+## è¿‡ç¨‹è®°å½•
 
