@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Hello world!
-categories:[Tools]
-tags:[jekyll, github, git, markdown]
+title: 写作环境搭建(git+github+markdown+jekyll)
 ---
 
 ## 缘起
