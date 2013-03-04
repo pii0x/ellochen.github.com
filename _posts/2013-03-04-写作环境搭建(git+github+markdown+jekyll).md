@@ -1,6 +1,5 @@
 ---
 layout: post
-title: 写作环境搭建(git+github+markdown+jekyll)
 ---
 
 ## 缘起
