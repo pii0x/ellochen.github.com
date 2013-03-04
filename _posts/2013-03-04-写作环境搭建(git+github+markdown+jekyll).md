@@ -1,5 +1,7 @@
 ---
 layout: post
+categories: [Tools]
+tags: [jekyll, github, git, markdown]
 ---
 
 ## 缘起
