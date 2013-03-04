@@ -45,11 +45,11 @@ tags: [jekyll, github, git, markdown]
 	>For information on troubleshooting Jekyll see https://help.github.com/articles/using-jekyll-with-pages#troubleshooting  
 	这个错误一般是本地安装的jekyll或者ruby，rubygems等软件包版本不符合github的版本要求。你可以使用*gem list*命令查看本地的软件包版本号。以下是github上软件包的版本号要求。  
 	        gem 'jekyll',     '=0.12.0'  
-	gem 'liquid',     '=2.4.1'  
-	gem 'redcarpet',  '=2.1.1'  
-	gem 'maruku',     '=0.6.0'  
-	gem 'rdiscount',  '=1.6.8'  
-	gem 'RedCloth',   '=4.2.9'
+	        gem 'liquid',     '=2.4.1'  
+	        gem 'redcarpet',  '=2.1.1'  
+	        gem 'maruku',     '=0.6.0'  
+	        gem 'rdiscount',  '=1.6.8'  
+	        gem 'RedCloth',   '=4.2.9'
 	
 	
 	>CNAME already taken: ......  
