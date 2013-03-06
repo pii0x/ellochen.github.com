@@ -38,9 +38,9 @@ tags: [jekyll, github, git, markdown]
 
 3. *git clone*该项目至本地同名文件夹*username*.github.com。
 
-4. 偷懒下载别人改好的jekyll模板框架，比较有名的是Octopress和Jekyll Bootstrap，另外[https://github.com/mojombo/jekyll/wiki/sites](https://github.com/mojombo/jekyll/wiki/sites)里面有很多可供参考的模板，我使用的是[kejinlu.github.com](https://github.com/kejinlu/kejinlu.github.com)。由于这些模板一般都是github上的，所以你可以直接*git clone*到本地，然后将其内容copy到你的*username*.github.com本地文件夹中。
+4. 偷懒下载别人改好的jekyll模板框架，比较有名的是Octopress和Jekyll Bootstrap，另外[https://github.com/mojombo/jekyll/wiki/sites](https://github.com/mojombo/jekyll/wiki/sites)里面有很多可供参考的模板，我使用的是[kejinlu.github.com](https://github.com/kejinlu/kejinlu.github.com)。由于这些模板一般都是github上的，所以你可以直接*git clone*到本地，然后将其内容copy到你的*username*.github.com本地文件夹中, **注意一定要将他人的.git文件删掉**。
 
-5. 接下来就是改动其内容，美其名曰hack，实际上我对前端代码完全看不懂，所以只做了最低级的修改，比如个人信息和文章神马的，注意一定要将他人的.git文件删掉。改完后，push到github上，就算大功告成了，过个10分钟左右访问http://*username*.github.com，就可以看到你的blog雏形了。注意如果接到github发来的邮件告诉你发生错误，就说明没有正确配置，无法显示你的blog，我遇到过两个错误：
+5. 接下来就是改动其内容，美其名曰hack，实际上我对前端代码完全看不懂，所以只做了最低级的修改，比如个人信息和文章神马的。改完后，push到github上，就算大功告成了，过个10分钟左右访问http://*username*.github.com，就可以看到你的blog雏形了。注意如果接到github发来的邮件告诉你发生错误，就说明没有正确配置，无法显示你的blog，我遇到过两个错误：
 
 	>For information on troubleshooting Jekyll see https://help.github.com/articles/using-jekyll-with-pages#troubleshooting  
 	这个错误一般是本地安装的jekyll或者ruby，rubygems等软件包版本不符合github的版本要求。你可以使用*gem list*命令查看本地的软件包版本号。以下是github上软件包的版本号要求。  
