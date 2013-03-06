@@ -42,8 +42,10 @@ tags: [jekyll, github, git, markdown]
 
 5. 接下来就是改动其内容，美其名曰hack，实际上我对前端代码完全看不懂，所以只做了最低级的修改，比如个人信息和文章神马的。改完后，push到github上，就算大功告成了，过个10分钟左右访问http://*username*.github.com，就可以看到你的blog雏形了。注意如果接到github发来的邮件告诉你发生错误，就说明没有正确配置，无法显示你的blog，我遇到过两个错误：
 
-	>For information on troubleshooting Jekyll see https://help.github.com/articles/using-jekyll-with-pages#troubleshooting  
+	+ >For information on troubleshooting Jekyll see https://help.github.com/articles/using-jekyll-with-pages#troubleshooting  
+
 	这个错误一般是本地安装的jekyll或者ruby，rubygems等软件包版本不符合github的版本要求。你可以使用*gem list*命令查看本地的软件包版本号。以下是github上软件包的版本号要求。  
+
 	        gem 'jekyll',     '=0.12.0'  
 	        gem 'liquid',     '=2.4.1'  
 	        gem 'redcarpet',  '=2.1.1'  
@@ -52,7 +54,8 @@ tags: [jekyll, github, git, markdown]
 	        gem 'RedCloth',   '=4.2.9'
 	
 	
-	>CNAME already taken: ......  
+	+ >CNAME already taken: ......  
+
 	这个错误需要把本地文件夹下的CNAME文件删掉，这个应该是别人定义自己自定义域名用的，如果你没有自定义域名，那就不需要。
 
 6. 如果你的blog可以正确访问了，你就可以在_posts文件夹下添加.md文件作为你的博文，注意命名格式一定要是yy-mm-dd-*title*.md,title是你文章的标题。写完之后push到github上就可以在你的blog上显示了，其中每篇文章的开头都要指定一定的格式，如本文：
