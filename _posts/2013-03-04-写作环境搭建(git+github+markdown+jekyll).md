@@ -58,7 +58,7 @@ tags: [jekyll, github, git, markdown]
 
 	这个错误需要把本地文件夹下的CNAME文件删掉，这个应该是别人定义自己自定义域名用的，如果你没有自定义域名，那就不需要。
 
-6. 如果你的blog可以正确访问了，你就可以在_posts文件夹下添加.md文件作为你的博文，**注意命名格式一定要是yy-mm-dd-*title*.md**,title是你文章的标题。写完之后push到github上就可以在你的blog上显示了，其中每篇文章的开头都要指定一定的格式，如本文：
+6. 如果你的blog可以正确访问了，你就可以在_posts文件夹下添加.md文件作为你的博文，**注意命名格式一定要是yy-mm-dd-title.md**,title是你文章的标题。写完之后push到github上就可以在你的blog上显示了，其中每篇文章的开头都要指定一定的格式，如本文：
 
         ---
 		layout: post
