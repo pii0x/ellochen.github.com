@@ -1,8 +1,8 @@
 ---
 
 layout: post
-categories: [Tools]
-tags: [jekyll, github, git, markdown]
+categories: [algorithms]
+tags: [Show-me-the-code, 约瑟夫环, 栈, 队列, 链表]
 
 ---
 
