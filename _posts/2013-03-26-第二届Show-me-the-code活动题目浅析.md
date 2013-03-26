@@ -7,7 +7,7 @@ tags: [jekyll, github, git, markdown]
 ---
 
 ##介绍
-［*Show me the code*］活动是我在[算法小站](http://site.douban.com/196781/)中举办的“*编程比赛*”，主要面向算法与数据结构的初学者，答题方式是向我建立的[Github项目](https://github.com/ellochen/Show-me-the-code)上提交自己的代码。这是第二届,题目及解答见[这里](https://github.com/ellochen/Show-me-the-code/tree/master/second)。第二届题目主要是对链表、栈、队列进行一次回顾。  
+[Show me the code](http://site.douban.com/196781/widget/forum/12161503/discussion/51263191/)活动是我在[算法小站](http://site.douban.com/196781/)中举办的“*编程比赛*”，主要面向算法与数据结构的初学者，答题方式是向我建立的[Github项目](https://github.com/ellochen/Show-me-the-code)上提交自己的代码。这是第二届,题目及解答见[这里](https://github.com/ellochen/Show-me-the-code/tree/master/second)。第二届题目主要是对链表、栈、队列进行一次回顾。  
 本次题目解析，仅给出简单思路及要点，如需参考详细代码可在上面的链接中找到。  
 
 ---
@@ -34,13 +34,13 @@ tags: [jekyll, github, git, markdown]
 
 5. **编写检测下列语言平衡符号的程序。**
 
-	- Pascal:
+		- Pascal:
 
-		begin/end，（），[]，{}
+			begin/end，（），[]，{}
 
-	- C:
+		- C:
 
-		/* */，()，[]，{}
+			/* */，()，[]，{}
 
 	我想尽可能实现一个扩展性强的代码，即可以方便添加新的平衡符号（但写完后实际上还有不少缺陷）。为此我学习了ucc的词法分析部分，ucc是一个国人写的开源c编译器，麻雀虽小五脏俱全，而且感觉结构很清晰，至少我觉得对于想写c编译器的朋友很有参考价值。[[传送门](http://sourceforge.net/projects/ucc/)]  
 	第一步需要解析输入流，将输入分解成一个又一个token（分词），这是编译器中词法分析的过程，具体的过程就是每读到一个字符都会跳到相应的处理函数中，实现这个很简单，可用字符最多也就255个，建立一个以字符为索引的函数指针数组，每读到相应的字符就去调用该字符索引的函数即可，对于全是字母的token，可以使用统一的函数来处理，如：scan_word(),具体实现看我代码，或者ucc的代码。  
@@ -51,12 +51,12 @@ tags: [jekyll, github, git, markdown]
 	这道题在这里暂且不提，因为我把他扔到github上作为一个简单的编译器前端项目，之后有时间就会持续开发。[[传送门](https://github.com/ellochen/freeCompute)]  
 
 7. **某城市有个火车站，铁轨铺设如下图所示。有n节车厢从A方向驶入车站，按进站顺序编号为1～n。你的任务是让它们按照某种特定的顺序进入B方向的铁轨并驶出车站。为了重组车厢，你可以借助中转站C。这是一个可以停放任意多节车厢的车站，但由于末端封顶，驶入C的车厢必须按照相反的顺序驶出C。对于每个车厢，一旦从A驶入C，就不能再换回A了；一旦从C移入B，就不能回到C了。换句话说，在任意时刻，只有两种选择： A->C 和 C->B 。 样例输入：  
-5  
+`5  
 1 2 3 4 5  
 5  
 5 4 1 2 3  
 6  
-6 5 4 3 2 1   
+6 5 4 3 2 1`  
 样例输出：  
 `Yes  
 No  
