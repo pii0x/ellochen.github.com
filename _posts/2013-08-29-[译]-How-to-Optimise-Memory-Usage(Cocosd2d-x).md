@@ -29,5 +29,23 @@ tags: [Cocos2d-x 优化 翻译]
 恰好有这样一个工具集为你而准备的. 它们是苹果公司出品的工具, Allocations和Leaks.  
 你可以在Xcode中长按Run键然后选择Profile选项来选择这两个工具.  
 下面是截图:  
-![](http://www.cocos2d-x.org/attachments/download/2178)  
+![](https://raw.github.com/ellochen/Img-store/master/instruments.jpeg)  
+你可以使用Allocation工具来监控你的程序内存使用情况, 并使用Leaks来观察内存泄露.  
+你仍然可以使用一些代码来获取关于程序内存使用的有用信息.  
+给出代码:  
 
+        CCTextureCache::sharedTextureCache()->dumpCachedTextureInfo();  
+
+当你调用这行代码并在DEBUG运行你的游戏时, 你将在Xcode的Console窗口看到一些格式化的log.  
+它们就像这样:  
+
+        Cocos2d: cocos2d: "cc_fps_images" rc=5 id=3 256 x 32 @ 16 bpp => 16 KB
+        Cocos2d: cocos2d: "XXX/hd/actor.pvr.ccz" rc=1059 id=4 2048 x 2048 @ 32 bpp => 16384 KB
+        Cocos2d: cocos2d: CCTextureCache dumpDebugInfo: 2 textures, for 16400 KB (16.02 MB)
+        
+就像你看到的, 它显示了纹理的名字, 引用计数, id, size以及每像素有多少位. 另外非常重要的一点,   
+它显示了纹理的内存使用情况.在这里*cc_fps_images*占据16KB的内存, 而actor.pvr.ccz却占据了16M内存之多.  
+
+### 拒绝过度优化  
+这是一个一般性的优化原则. 你在做内存优化的时候需要做适当的权衡. 因为有时图片质量和图片内存是对立的.  
+永远不要去过度优化!  (译注: 作者这么激动,我猜他是想说否则美术MM会发怒的!)  
