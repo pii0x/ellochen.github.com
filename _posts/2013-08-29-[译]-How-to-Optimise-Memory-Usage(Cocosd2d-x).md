@@ -7,19 +7,18 @@ tags: [Cocos2d-x 优化 翻译]
 ---
 
 [占坑]
-How to Optimise Memory Usage.
-How to Optimise Memory Usage.
-Memory Optimization Principle
-Know the bottleneck, then figure it out.
-Never do over-optimization.
-Memory Optimization Level
-cocos2d-x client level
-cocos2d-x engine level
-c++ language level
-Tips & Tricks
-Recommended Readings
-Comment
-Memory Optimization Principle
+## 怎样优化内存使用  
+- 内存最优化原则  
+  + 了解瓶颈所在, 把它画出来~.  
+  + 拒绝过度优化.  
+- 内存优化的层次  
+  + cocos2d-x 客户端层  
+  + cocos2d-x 引擎层  
+  + c++ 语言层次  
+- 提示 & 技巧  
+- 推荐阅读  
+
+## Memory Optimization Principle
 In order to optimise your app's memory usage, you should know what consumes most of your app's memory. The answer is Textures!
 
 It almost occupies 90% of app's memory. So we should try our best to minimize our app's texture memory usage, otherwise your app may be killed by the OS
