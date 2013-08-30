@@ -99,5 +99,5 @@ cocos2d-x是开源的游戏引擎, 如果你多少有一些引擎层次的优化
 13. 相对于原始PNG文件优先使用1024 * 1024的NPOT pvr.ccz纹理.  
 
 ## 推荐阅读
-[Steffen Itterheim's cocos2d memory optimization tutorials](http://www.cocos2d-x.org/projects/cocos2d-x/wiki/How_to_optimise_memory_usage)  
-[Apple's developer guide for reducing memory usage](http://www.cocos2d-x.org/projects/cocos2d-x/wiki/How_to_optimise_memory_usage)  
+[Steffen Itterheim's cocos2d memory optimization tutorials](http://www.learn-cocos2d.com/2012/11/optimize-memory-usage-bundle-size-cocos2d-app/)  
+[Apple's developer guide for reducing memory usage](https://developer.apple.com/library/ios/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/TechniquesForWorkingWithTextureData/TechniquesForWorkingWithTextureData.html)  
