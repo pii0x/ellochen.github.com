@@ -20,3 +20,7 @@ tags: [Python, Pythonnic, 技巧]
 
 *注: 打印出来就明白了  
 
+3.全排列  
+
+        itertools.permutations([0,1,2,3,4,5,6,7,8,9])
+        
