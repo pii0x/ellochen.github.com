@@ -1,3 +1,11 @@
+---
+
+layout: post
+categories: [Programming language]
+tags: [Python, Pythonnic, 技巧]
+
+---
+
 1. 
 
     map(int, raw_input().split(' '))  
