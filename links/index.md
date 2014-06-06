@@ -4,4 +4,4 @@ layout: page
 comments: yes
 ---
 
-- [朝鲜条子](http://blog.f1lab.tk:8080/)
+- [朝鲜条子](http://blog.f1lab.tk)
