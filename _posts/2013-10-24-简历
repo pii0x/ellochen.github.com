@@ -22,6 +22,20 @@ tags: [简历, 自我介绍]
 * 期望薪资：税前月薪9k以上，特别喜欢的公司可例外  
 * 期望城市：大连  
 
+## 专业技能
+
+* 熟练使用C/C++/Objective-c/python  
+* 熟悉使用cocos2d-x游戏引擎进行游戏开发  
+* 熟悉使用NodeJs进行后台应用开发  
+* 熟悉人脸检测识别, 增强现实等机器视觉相关算法及应用  
+* 了解编译原理, 热衷探讨编程语言的底层实现细节  
+* 熟悉常用算法数据结构.  
+* 熟练Mac系统Linux系统日常使用和开发相关配置  
+* 熟练使用svn和git进行版本控制  
+* 熟悉Vim和Markdown进行文本编辑  
+* 熟悉OD,IDA使用,有一定的C++程序反汇编基础, 对C++, .Net程序的破解有一定经验.  
+（开发过简单外挂及修改器,了解PE格式,注入及HOOK原理）  
+
 ## 工作经历  
 
 大连腾讯无线研发中心  2011.8 - now 研发工程师  
@@ -73,39 +87,27 @@ tags: [简历, 自我介绍]
 在这个过程中,逐渐了解了symbian的系统特性, 并强化了使用C++在较大工程中的运用能力.  
 
 ## 开源项目和作品
-（这一段用于放置工作以外的、可证明你的能力的材料）
 
 ### 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
-
- - [STU](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
+ 
+ - [Mixare_GL](https://github.com/ellochen/Mixare_GL):  
+   基于开源程序Mixare使用OpenGL进行重写, 实现了基于地理位置的增强现实导航系统  
+ - [freeCompute](https://github.com/ellochen/freeCompute):  
+   简单的词法语法分析支持自定义变量的计算程序.  
 
 ### 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
+- [增强现实原理浅析](http://ellochen.github.io/2012/12/增强现实原理浅析/)  
+- [浅谈尾递归](http://ellochen.github.io/2013/02/浅谈尾递归/)  
+- [大白话讲解如何给github上项目贡献代码](http://ellochen.github.io/2013/03/大白话讲解如何给github上项目贡献代码/)  
+- [怎样优化内存使用(cocos2dx)](http://t.cn/Rhikzdj)  
+- [Linux栈缓冲区溢出浅析](http://ellochen.github.io/2014/01/Linux栈缓冲区溢出浅析/)  
+- [算法竞赛实用数据结构](http://ellochen.github.io/2014/01/算法竞赛实用数据结构/)  
 
 ### 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
 
-  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
- - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
-
-# 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
-
-以下均为我熟练使用的技能
-
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- 模式识别之人脸检测: [模式识别之人脸检测](http://t.cn/RhiFAHJ)  
+- 增强现实技术原理及应用: [增强现实技术原理及应用](http://t.cn/RhiF7op)   
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
